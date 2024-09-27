@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Reception Basics}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Chart Elements Examined}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{What Constitutes Reception?}{4}{0}{1}
+\beamer@sectionintoc {2}{Section 2}{5}{0}{2}

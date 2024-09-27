@@ -1,0 +1,45 @@
+\documentclass[10pt, fleqn, aspectratio=1610,usenames,dvipsnames]{beamer}
+\input{slidePreamble.tex}
+\hypersetup{
+	pdfpagelayout=SinglePage,
+	pdfauthor={janegca},
+	pdfsubject={Hellenistic, Medieval Astrology},
+    pdfkeywords={astrology, Greek astrology, Hellenistic astrology, Medieval astrology},
+    pdfcreator={TeXworks with pdfLatex, beamer}
+}
+% -- The Title Slide --
+\title{Reception}
+\subtitle{Notes and examples on Reception.}
+	\institute{ \large Primarily based on Masha'Allah's book \textsl{On Reception} translations by Robert Hand and James Holden. 
+	
+	\vspace{1em}
+	Masha'Allah tells us that we learn, from reception, whether something will be or not; and, if it will be, when, how, and by whom it will come about. And if it will not be, what will prohibit it and when that will become obvious to us.}
+
+% -- The Presentation Slides --
+\begin{document}
+% slides are contained in frames
+\begin{frame}
+\centering
+\begin{minipage}{0.75\textwidth}
+\titlepage
+\end{minipage}
+\end{frame}
+
+% table of contents
+\AtBeginSection[]{
+	\begin{frame}[t, allowframebreaks]{Outline}
+		\fontsize{7pt}{5pt}\selectfont
+   		\tableofcontents[
+   	  		currentsection,
+   	  		sectionstyle=show/show,
+   	  		subsectionstyle=show/show/hide,
+   	  		subsubsectionstyle=show/show/show/hide] 
+	\end{frame}
+}
+% -------------------------------------------------------------------------
+\section{Reception Basics}
+\input{00-chart-elements}
+\input{01-what-is-reception}
+\section{Section 2}
+text
+\end{document}

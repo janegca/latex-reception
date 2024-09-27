@@ -1,0 +1,10 @@
+*.log
+*.aux
+*.gz
+*.nav
+*.lof
+*.lot
+*.out
+*.snm
+*.nav
+.~lock*

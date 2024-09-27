@@ -1,0 +1,55 @@
+% Preamble for `beamer' slides
+% -- Preamble --
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{starfont}
+\usepackage{hyperref}
+\usepackage{etoolbox}	% for TOC spacing fix
+\usepackage{parskip}
+
+% reduce spacing between TOC entries
+\makeatletter
+\patchcmd{\beamer@sectionintoc}
+	{\vskip1.5em}{\vskip0.5em}{}{}
+\makeatother
+
+% template settings
+\usetheme[progressbar=frametitle]{metropolis}
+\setbeamertemplate{frame numbering}[fraction]
+\useoutertheme{metropolis}
+\useinnertheme{metropolis}
+\usefonttheme{metropolis}
+\usecolortheme{spruce}
+
+\setbeamercolor{background canvas}{bg=white}
+\metroset{block=fill}  % formats `block' display
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue}
+    
+% left margin width
+\setbeamersize
+{text margin left=0.5cm, text margin right=0.5cm}
+
+% alignment 
+\defbeamertemplate{description item}{align left}{\insertdescriptionitem\hfill}
+\setbeamertemplate{description item}[align left]
+
+% customize default block display
+\setbeamertemplate{blocks}[rounded][shadow=true]
+\setbeamercolor{block body}{bg=mLightBrown!08}
+
+% -- Macros
+\newcommand{\fsc}[1]{\normalfont\scshape{#1}}
+\newcommand{\ul}{\rule[0.1in]{\textwidth}{0.2mm}\\ \vspace{-8pt}}
+\newcommand*\red{\color{red}}
+\newcommand*\dgreen{\color{OliveGreen}}
+
+% -- Variable values for title page
+\author{}  % will mess up template if commented out
+\date{}     % omit or add your your own date, default is `today'
+
+% -- Override errors
+\vfuzz=30pt		% suppress Overfull vbox in Outline
