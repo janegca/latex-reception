@@ -1,9 +1,9 @@
 % packages used by all the chart files
 \usepackage{wasysym}	% for astrology symbols
-\usepackage{starfont}		% astrology font
-\usepackage{tikz}		% drawing package
-\usetikzlibrary{backgrounds, calc, quotes}
-\starfontsans
+\usepackage{starfont}		% astrology fonts
+\usepackage{tikz}			   % drawing package
+\usepackage{ulem}			% strikeout text
+\usetikzlibrary{backgrounds, calc, shapes}
 
 \tikzset{
 	pics/fortune/.style ={ % Lot of Fortune
@@ -28,3 +28,7 @@
 						 {\textbf{\textsl{#1}}};}
 	}
 }
+
+
+\tikzset{ % House Cusps
+	cusp/.style={circle, fill=white, align=center,draw}}
