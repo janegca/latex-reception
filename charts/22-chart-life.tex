@@ -1,4 +1,4 @@
-% 20-1 ex JH p20
+% Example Chart JH p25
 \documentclass[border=10pt]{standalone}
 \input{../chartPreamble}
 
@@ -40,7 +40,7 @@
 	\fill[white] (0,0) circle(0.35);
 
 	% draw chart info
-	\draw (0,0) [align=center] node {\large Sick Person \\ Will they recover or die?};
+	\draw (0,0) [align=center] node {\large Life Question};
 %	\node at (0,0){\large 38 AD June 14} (0,1);	
 %	\node at (0,0.1) {\large at Sunrise};
 %	\node at (0,0.2) {\small from Cardan};
@@ -50,29 +50,29 @@
 \begin{scope}[rotate=180]  % based on Asc sign
 
 	% Cusps  
-	\node [cusp] at (0:1.25)  {\Virgo \\ 15°};						% Asc
-	\node [cusp] at (30:1.25)  {\Libra \\ 15°};				
-	\node [cusp] at (60:1.25)  {\Scorpio \\ 15°};					
-	\node [cusp] at (90:1.25)  {\Sagittarius \\ 15°};			% 4th  
-	\node [cusp] at (120:1.25)  {\Capricorn \\ 10°};					
-	\node [cusp] at (150:1.25)  {\Aquarius \\ 10°};						
-	\node [cusp] at (180:1.25)  {\Pisces \\ 15°};				% 7th
-	\node [cusp] at (210:1.25)  {\Aries \\ 15° };							
-	\node [cusp] at (240:1.25)  {\Taurus \\ 15°};					
-	\node [cusp] at (270:1.25)  {\Gemini \\ 15°};				% 10th  
-	\node [cusp] at (300:1.25)  {\Cancer \\ 10°};       			
-	\node [cusp] at (330:1.25)  {\Leo \\ 10°};						
+	\node [cusp] at (0:1.25)  {\Leo \\ 28°};						% Asc
+	\node [cusp] at (30:1.25)  {\Virgo \\ 24°};				
+	\node [cusp] at (60:1.25)  {\Libra \\ 24°};					
+	\node [cusp] at (90:1.25)  {\Scorpio \\ 20°};			% 4th  
+	\node [cusp] at (120:1.25)  {\Sagittarius \\ 22°};					
+	\node [cusp] at (150:1.25)  {\Capricorn \\ 24°};						
+	\node [cusp] at (180:1.25)  {\Aquarius \\ 28°};				% 7th
+	\node [cusp] at (210:1.25)  {\Pisces \\ 24°};							
+	\node [cusp] at (240:1.25)  {\Aries \\ 24°};					
+	\node [cusp] at (270:1.25)  {\Taurus \\ 20°};				% 10th  
+	\node [cusp] at (300:1.25)  {\Gemini \\ 22°};       			
+	\node [cusp] at (330:1.25)  {\Cancer \\ 24°};						
 	
 		
 	% Planets  -- watch that they are placed in correct house
 	\huge
-	\node at (220:1)  {\Sun\ \small20 \Aries\ 30};
-	\node at (260:1) {\Moon\ \small 26 \Taurus\ 25};
-	\node at (228:1.05) {\Mercury\ \small 24 \Aries\ 50};
-	\node at (170:1) {\Venus\ \small 5 \Pisces\ 37};
-	\node at (285:1) {\Mars\ \small 15 \Gemini\ 30};
-	\node at (255:0.8) {\Jupiter\ \small19 \Taurus\ 15};
-	\node at (200:1) {\Saturn\ \small 10 \Aries\ 15};
+	\node at (175:1)  {\Sun\ \small 24 \Aquarius\ 35};
+	\node at (252:.8) {\Moon\ \small 28 \Aries\ 27};
+	\node at (165:1.05) {\Mercury\ \small 2 \Aquarius\ 16};
+	\node at (135:1) {\Venus\ \small 11 \Capricorn\ 39};
+	\node at (258:1.1) {\Mars\ \small 15 \Taurus\ 18};
+	\node at (258:1) {\Jupiter\ \small 9  \Taurus\ 13};
+	\node at (225:1) {\Saturn\ \small 4 \Aries\ 45};
 	
 \end{scope}
 

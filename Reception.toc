@@ -12,3 +12,4 @@
 \beamer@sectionintoc {3}{Examples}{14}{0}{3}
 \beamer@subsectionintoc {3}{1}{Example: About Life or Death}{15}{0}{3}
 \beamer@subsectionintoc {3}{2}{Example Chart: Sickness}{16}{0}{3}
+\beamer@subsectionintoc {3}{3}{Example Chart: LIfe Question}{19}{0}{3}
