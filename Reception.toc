@@ -9,7 +9,11 @@
 \beamer@subsectionintoc {2}{1}{Questions in General}{10}{0}{2}
 \beamer@subsectionintoc {2}{2}{Choosing Significators}{11}{0}{2}
 \beamer@subsectionintoc {2}{3}{Outcomes}{13}{0}{2}
-\beamer@sectionintoc {3}{Examples}{14}{0}{3}
-\beamer@subsectionintoc {3}{1}{Example: About Life or Death}{15}{0}{3}
-\beamer@subsectionintoc {3}{2}{Example Chart: Sickness}{16}{0}{3}
-\beamer@subsectionintoc {3}{3}{Example Chart: LIfe Question}{19}{0}{3}
+\beamer@subsectionintoc {2}{4}{Timing}{14}{0}{2}
+\beamer@sectionintoc {3}{Life \& Sickness}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{About Life or Death}{16}{0}{3}
+\beamer@subsectionintoc {3}{2}{Sickness}{18}{0}{3}
+\beamer@subsectionintoc {3}{3}{A LIfe Question}{21}{0}{3}
+\beamer@sectionintoc {4}{Substance}{23}{0}{4}
+\beamer@subsectionintoc {4}{1}{Finding Wealth or Not}{24}{0}{4}
+\beamer@subsectionintoc {4}{2}{Looking to Borrow}{26}{0}{4}
