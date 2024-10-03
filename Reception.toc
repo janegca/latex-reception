@@ -9,11 +9,13 @@
 \beamer@subsectionintoc {2}{1}{Questions in General}{10}{0}{2}
 \beamer@subsectionintoc {2}{2}{Choosing Significators}{11}{0}{2}
 \beamer@subsectionintoc {2}{3}{Outcomes}{13}{0}{2}
-\beamer@subsectionintoc {2}{4}{Timing}{14}{0}{2}
-\beamer@sectionintoc {3}{Life \& Sickness}{15}{0}{3}
-\beamer@subsectionintoc {3}{1}{About Life or Death}{16}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sickness}{18}{0}{3}
-\beamer@subsectionintoc {3}{3}{A LIfe Question}{21}{0}{3}
-\beamer@sectionintoc {4}{Substance}{23}{0}{4}
-\beamer@subsectionintoc {4}{1}{Finding Wealth or Not}{24}{0}{4}
-\beamer@subsectionintoc {4}{2}{Looking to Borrow}{26}{0}{4}
+\beamer@subsectionintoc {2}{4}{Timing}{15}{0}{2}
+\beamer@sectionintoc {3}{Life \& Sickness}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{About Life or Death}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Sickness}{19}{0}{3}
+\beamer@subsectionintoc {3}{3}{A LIfe Question}{22}{0}{3}
+\beamer@sectionintoc {4}{Substance}{24}{0}{4}
+\beamer@subsectionintoc {4}{1}{Finding Wealth or Not}{25}{0}{4}
+\beamer@subsectionintoc {4}{2}{Looking to Borrow}{27}{0}{4}
+\beamer@sectionintoc {5}{Inheritance}{28}{0}{5}
+\beamer@subsectionintoc {5}{1}{Inheritance}{29}{0}{5}
