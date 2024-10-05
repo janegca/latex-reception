@@ -1,21 +1,23 @@
 \beamer@sectionintoc {1}{Reception Basics}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Which Chart Elements are Examined?}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{What Constitutes Reception?}{4}{0}{1}
-\beamer@subsectionintoc {1}{3}{Committing Disposition}{5}{0}{1}
-\beamer@subsubsectionintoc {1}{3}{1}{Committing Disposition - Another Example}{6}{0}{1}
-\beamer@subsectionintoc {1}{4}{Applications and Separations}{7}{0}{1}
-\beamer@subsectionintoc {1}{5}{Reception and the Joining of Planets}{8}{0}{1}
-\beamer@sectionintoc {2}{Horary Rules}{9}{0}{2}
-\beamer@subsectionintoc {2}{1}{Questions in General}{10}{0}{2}
-\beamer@subsectionintoc {2}{2}{Choosing Significators}{11}{0}{2}
-\beamer@subsectionintoc {2}{3}{Outcomes}{13}{0}{2}
-\beamer@subsectionintoc {2}{4}{Timing}{15}{0}{2}
-\beamer@sectionintoc {3}{Life \& Sickness}{16}{0}{3}
-\beamer@subsectionintoc {3}{1}{About Life or Death}{17}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sickness}{19}{0}{3}
-\beamer@subsectionintoc {3}{3}{A LIfe Question}{22}{0}{3}
-\beamer@sectionintoc {4}{Substance}{24}{0}{4}
-\beamer@subsectionintoc {4}{1}{Finding Wealth or Not}{25}{0}{4}
-\beamer@subsectionintoc {4}{2}{Looking to Borrow}{27}{0}{4}
-\beamer@sectionintoc {5}{Inheritance}{28}{0}{5}
-\beamer@subsectionintoc {5}{1}{Inheritance}{29}{0}{5}
+\beamer@subsectionintoc {1}{3}{Committing Disposition}{6}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{1}{Committing Disposition - Another Example}{7}{0}{1}
+\beamer@subsectionintoc {1}{4}{Applications and Separations}{8}{0}{1}
+\beamer@subsectionintoc {1}{5}{Reception and the Joining of Planets}{9}{0}{1}
+\beamer@sectionintoc {2}{Horary Rules}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Questions in General}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Choosing Significators}{12}{0}{2}
+\beamer@subsectionintoc {2}{3}{Perfection and Outcomes}{14}{0}{2}
+\beamer@subsectionintoc {2}{4}{Timing}{17}{0}{2}
+\beamer@sectionintoc {3}{Life \& Sickness}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{About Life or Death}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{Sickness}{21}{0}{3}
+\beamer@subsectionintoc {3}{3}{A LIfe Question}{24}{0}{3}
+\beamer@sectionintoc {4}{Substance}{26}{0}{4}
+\beamer@subsectionintoc {4}{1}{Finding Wealth or Not}{27}{0}{4}
+\beamer@subsectionintoc {4}{2}{Looking to Borrow}{29}{0}{4}
+\beamer@sectionintoc {5}{Inheritance}{30}{0}{5}
+\beamer@subsectionintoc {5}{1}{Inheritance}{31}{0}{5}
+\beamer@sectionintoc {6}{Kingdom}{32}{0}{6}
+\beamer@subsectionintoc {6}{1}{Kingdom}{33}{0}{6}
