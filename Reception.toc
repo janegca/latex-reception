@@ -1,10 +1,10 @@
 \beamer@sectionintoc {1}{Reception Basics}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Which Chart Elements are Examined?}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{What Constitutes Reception?}{4}{0}{1}
-\beamer@subsectionintoc {1}{3}{Committing Disposition}{6}{0}{1}
-\beamer@subsubsectionintoc {1}{3}{1}{Committing Disposition - Another Example}{7}{0}{1}
-\beamer@subsectionintoc {1}{4}{Applications and Separations}{8}{0}{1}
-\beamer@subsectionintoc {1}{5}{Reception and the Joining of Planets}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{Applications and Separations}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{Committing Disposition}{7}{0}{1}
+\beamer@subsubsectionintoc {1}{4}{1}{Committing Disposition - Another Example}{8}{0}{1}
+\beamer@subsectionintoc {1}{5}{The Joining of Planets}{9}{0}{1}
 \beamer@sectionintoc {2}{Horary Rules}{10}{0}{2}
 \beamer@subsectionintoc {2}{1}{Questions in General}{11}{0}{2}
 \beamer@subsectionintoc {2}{2}{Choosing Significators}{12}{0}{2}
