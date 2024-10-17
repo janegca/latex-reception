@@ -1,4 +1,4 @@
-% 01-A-receives
+% 01-perfect-reception
 \documentclass[border=10pt]{standalone}
 \input{../chartPreamble}
 
@@ -40,7 +40,7 @@
 	\fill[white] (0,0) circle(0.35);
 
 	% draw chart info
-	\draw (0,0) [align=center] node {\large Basic Reception \\ Pushing Nature};
+	\draw (0,0) [align=center] node {\large Perfect Reception \\ by Domicile or Exaltation};
 %	\node at (0,0){\large 38 AD June 14} (0,1);	
 %	\node at (0,0.1) {\large at Sunrise};
 %	\node at (0,0.2) {\small from Cardan};
@@ -67,14 +67,14 @@
 	% Planets  -- watch that they are placed in correct house
 	\huge
 %	\node at (220:1)  {\Sun\ \small20 \Aries\ 30};
-%	\node at (260:1) {\Moon\ \small 26 \Taurus\ 25};
+	\node (1) at (260:1) {\Moon\ \small  \Aries};
 %	\node at (228:1.05) {\Mercury\ \small 24 \Aries\ 50};
 %	\node at (170:1) {\Venus\ \small 5 \Pisces\ 37};
-	\node (1) at (255:0.8) {\Mars\ \small 10 \Aries};
+	\node (2) at (315:1) {\Mars\ or \Sun};
 %	\node at (255:0.8) {\Jupiter\ \small19 \Taurus\ 15};
-	\node (2) at (285:0.8) {\Saturn\ \small 15 \Aries};
+%	\node (2) at (285:0.8) {\Saturn\ \small 15 \Aries};
 	
-	\draw [->,red,very thick] (1) to [bend right=55] (2);
+	\draw [->,red,very thick] (1) to [bend right=25] (2.north);
 	
 \end{scope}
 
