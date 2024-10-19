@@ -1,0 +1,87 @@
+% Aspects-Saturn-Aquarius
+\documentclass[border=10pt]{standalone}
+\input{../chartPreamble}
+
+\begin{document}
+\begin{tikzpicture}[scale=6]
+% ================ DEFINE VARIABLES =======================
+	\def\opcolor{black!50};		% lighter shade
+
+% =============== DRAWING ROUTINES ======================
+% ---- Draw Main Circles
+	\draw (0,0) circle(0.35);		% inner place number circle
+	\draw (0,0) circle(0.45);		% outer place number circle
+	
+	\draw (0,0) circle(1.25);		% outer ring
+
+% ---- Draw and Number Houses
+\begin{scope}[rotate=180]
+	% draw numbered, fixed place positions
+	\foreach \place/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\place + 15:0.4) node {\small\label};
+	
+	% draw radix cusps
+	\foreach \x in {0,30,...,330} {
+	        % lines from center to point
+	        \draw[gray] (0,0) -- (\x:1.25);
+	}	
+	\fill[white] (0,0) circle(0.35);
+
+	% draw chart info
+	\draw (0,0)[align=center] node {\Large \Saturn\ Aspects \\ to \Aquarius \\ (Day Sign)};
+	
+\end{scope}
+
+% ---- Turn chart and place signs and planets 
+\begin{scope}[rotate=240]  % based on Asc sign
+
+	% Cusps  
+	\node [cusp] at (0:1.25)  {\Aries};						% Asc
+	\node [cusp] at (30:1.25)  {\Taurus};				
+	\node [cusp] at (60:1.25)  {\Gemini};					
+	\node [cusp] at (90:1.25)  {\Cancer};							% 4th  
+	\node [cusp] at (120:1.25)  {\Leo};					
+	\node [cusp] at (150:1.25)  {\Virgo};						
+	\node [cusp] at (180:1.25)  {\Libra};								% 7th
+	\node [cusp] at (210:1.25)  {\Scorpio};							
+	\node [cusp] at (240:1.25)  {\Sagittarius};					
+	\node [cusp] at (270:1.25)  {\Capricorn};						% 10th  
+	\node [cusp] at (300:1.25)  {\Aquarius};       			
+	\node [cusp] at (330:1.25)  {\Pisces};						
+	
+		
+	% Planets  -- watch that they are placed in correct house
+	\huge
+	
+	% For Capricorn
+	\node at (315:1) [blue] {\Saturn};
+	% on the Right
+	\node at (255:1) {\Sextile\ \Saturn};
+	\node at (225:1) {\Square\ \Saturn};
+	\node at (195:1) [purple] {\Trine\ \Saturn};
+	
+	\node at (135:1) {\Opposition\ \Saturn};
+	
+	% on the Left
+	\node at (15:1) {\Sextile\ \Saturn};
+	\node at (45:1) {\Square\ \Saturn};
+	\node at (75:1) [orange] {\Trine\ \Saturn};
+	
+%	\draw [->,red,very thick] (1) to [bend right=55] (2);
+	
+\end{scope}
+
+\end{tikzpicture}
+\end{document}

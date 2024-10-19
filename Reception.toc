@@ -1,25 +1,30 @@
 \beamer@sectionintoc {1}{Reception Basics}{2}{0}{1}
-\beamer@subsectionintoc {1}{1}{Which Chart Elements are Examined?}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{What Constitutes Reception?}{4}{0}{1}
-\beamer@subsectionintoc {1}{3}{Applications and Separations}{10}{0}{1}
-\beamer@subsectionintoc {1}{4}{Committing Disposition}{11}{0}{1}
-\beamer@subsubsectionintoc {1}{4}{1}{Committing Disposition - Another Example}{13}{0}{1}
-\beamer@subsectionintoc {1}{5}{The Joining of Planets}{14}{0}{1}
-\beamer@sectionintoc {2}{Horary Rules}{15}{0}{2}
-\beamer@subsectionintoc {2}{1}{Horary Questions in General}{16}{0}{2}
-\beamer@subsectionintoc {2}{2}{Choosing Significators}{17}{0}{2}
-\beamer@subsectionintoc {2}{3}{Perfection and Outcomes}{19}{0}{2}
-\beamer@subsectionintoc {2}{4}{Timing}{22}{0}{2}
-\beamer@sectionintoc {3}{Life \& Sickness}{23}{0}{3}
-\beamer@subsectionintoc {3}{1}{About Life or Death}{24}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sickness}{26}{0}{3}
-\beamer@subsectionintoc {3}{3}{A LIfe Question}{29}{0}{3}
-\beamer@sectionintoc {4}{Substance}{31}{0}{4}
-\beamer@subsectionintoc {4}{1}{Finding Wealth or Not}{32}{0}{4}
-\beamer@subsectionintoc {4}{2}{Looking to Borrow}{34}{0}{4}
-\beamer@sectionintoc {5}{Inheritance}{35}{0}{5}
-\beamer@subsectionintoc {5}{1}{Inheritance}{36}{0}{5}
-\beamer@sectionintoc {6}{Kingdom}{37}{0}{6}
-\beamer@subsectionintoc {6}{1}{Seeking a Kingdom}{38}{0}{6}
-\beamer@subsectionintoc {6}{2}{Another Question on a Kingdom}{39}{0}{6}
-\beamer@subsectionintoc {6}{3}{Will I get the dukedom promised by the King?}{40}{0}{6}
+\beamer@subsectionintoc {1}{1}{Which Chart Elements are Examined?}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{What Constitutes Reception?}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{Perfect Reception}{6}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{2}{A Weaker Reception}{7}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{3}{Pushing Two Natures}{8}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{4}{Mutual Reception}{9}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{5}{When there is no reception}{10}{0}{1}
+\beamer@subsectionintoc {1}{3}{Applications and Separations}{12}{0}{1}
+\beamer@subsectionintoc {1}{4}{Committing Disposition}{13}{0}{1}
+\beamer@subsubsectionintoc {1}{4}{1}{Committing Disposition - Another Example}{15}{0}{1}
+\beamer@subsectionintoc {1}{5}{The Joining of Planets}{16}{0}{1}
+\beamer@sectionintoc {2}{Horary Rules}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Horary Questions in General}{18}{0}{2}
+\beamer@subsectionintoc {2}{2}{Choosing Significators}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{Perfection and Outcomes}{21}{0}{2}
+\beamer@subsectionintoc {2}{4}{Timing}{24}{0}{2}
+\beamer@sectionintoc {3}{Life \& Sickness}{25}{0}{3}
+\beamer@subsectionintoc {3}{1}{About Life or Death}{26}{0}{3}
+\beamer@subsectionintoc {3}{2}{Sickness}{28}{0}{3}
+\beamer@subsectionintoc {3}{3}{A LIfe Question}{31}{0}{3}
+\beamer@sectionintoc {4}{Substance}{33}{0}{4}
+\beamer@subsectionintoc {4}{1}{Finding Wealth or Not}{34}{0}{4}
+\beamer@subsectionintoc {4}{2}{Looking to Borrow}{36}{0}{4}
+\beamer@sectionintoc {5}{Inheritance}{37}{0}{5}
+\beamer@subsectionintoc {5}{1}{Inheritance}{38}{0}{5}
+\beamer@sectionintoc {6}{Kingdom}{39}{0}{6}
+\beamer@subsectionintoc {6}{1}{Seeking a Kingdom}{40}{0}{6}
+\beamer@subsectionintoc {6}{2}{Another Question on a Kingdom}{41}{0}{6}
+\beamer@subsectionintoc {6}{3}{Will I get the dukedom promised by the King?}{42}{0}{6}
