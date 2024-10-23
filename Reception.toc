@@ -1,28 +1,30 @@
 \beamer@sectionintoc {1}{Reception Basics}{2}{0}{1}
-\beamer@subsectionintoc {1}{1}{Which Chart Elements are Examined?}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Committing Disposition}{4}{0}{1}
-\beamer@subsubsectionintoc {1}{2}{1}{Committing Disposition - Another Example}{6}{0}{1}
-\beamer@subsectionintoc {1}{3}{What Constitutes Reception?}{7}{0}{1}
-\beamer@subsubsectionintoc {1}{3}{1}{Perfect Reception}{8}{0}{1}
-\beamer@subsubsectionintoc {1}{3}{2}{A Weaker Reception}{9}{0}{1}
-\beamer@subsubsectionintoc {1}{3}{3}{Pushing Two Natures}{10}{0}{1}
-\beamer@subsubsectionintoc {1}{3}{4}{Mutual Reception}{11}{0}{1}
-\beamer@subsubsectionintoc {1}{3}{5}{Corrupted Receptions and Returns}{12}{0}{1}
-\beamer@subsectionintoc {1}{4}{Applications and Separations}{14}{0}{1}
-\beamer@subsectionintoc {1}{5}{The Joining of Planets}{15}{0}{1}
-\beamer@sectionintoc {2}{Horary Rules}{16}{0}{2}
-\beamer@subsectionintoc {2}{1}{Horary Questions in General}{17}{0}{2}
-\beamer@subsectionintoc {2}{2}{Choosing Significators}{18}{0}{2}
-\beamer@subsectionintoc {2}{3}{Perfection and Outcomes}{20}{0}{2}
-\beamer@subsectionintoc {2}{4}{16 Modes of Perfection and Destruction}{23}{0}{2}
-\beamer@subsectionintoc {2}{5}{Timing}{24}{0}{2}
-\beamer@sectionintoc {3}{Masha'allah's Example Charts}{25}{0}{3}
-\beamer@subsectionintoc {3}{1}{About Life or Death}{26}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sickness}{28}{0}{3}
-\beamer@subsectionintoc {3}{3}{A LIfe Question}{31}{0}{3}
-\beamer@subsectionintoc {3}{4}{Finding Wealth or Not}{33}{0}{3}
-\beamer@subsectionintoc {3}{5}{Looking to Borrow}{35}{0}{3}
-\beamer@subsectionintoc {3}{6}{Inheritance}{36}{0}{3}
-\beamer@subsectionintoc {3}{7}{Seeking a Kingdom}{37}{0}{3}
-\beamer@subsectionintoc {3}{8}{Another Question on a Kingdom}{38}{0}{3}
-\beamer@subsectionintoc {3}{9}{Will I get the dukedom promised by the King?}{39}{0}{3}
+\beamer@subsectionintoc {1}{1}{Which Chart Elements are Examined?}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Applications and Separations by {\usefont {OT1}{stf}{m}{n}\char 113}\ or Aspect}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Committing Disposition}{6}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{1}{Committing Disposition - Another Example}{8}{0}{1}
+\beamer@subsectionintoc {1}{4}{The Joining of Planets}{9}{0}{1}
+\beamer@subsectionintoc {1}{5}{What Constitutes Reception?}{10}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{1}{Perfect Reception: Pushing Nature}{11}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{2}{A Weaker Reception - Pushing Power}{12}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{3}{Pushing Two Natures}{13}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{4}{Mutual Reception}{14}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{5}{Corrupted Receptions and Returns}{15}{0}{1}
+\beamer@sectionintoc {2}{Horary Rules}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Horary Questions in General}{18}{0}{2}
+\beamer@subsectionintoc {2}{2}{Choosing Significators}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{Perfection and Outcomes}{21}{0}{2}
+\beamer@subsectionintoc {2}{4}{16 Modes of Perfection and Destruction}{24}{0}{2}
+\beamer@subsectionintoc {2}{5}{Timing}{26}{0}{2}
+\beamer@sectionintoc {3}{Masha'allah's Example Charts}{27}{0}{3}
+\beamer@subsectionintoc {3}{1}{About Life or Death}{28}{0}{3}
+\beamer@subsectionintoc {3}{2}{Sickness}{30}{0}{3}
+\beamer@subsectionintoc {3}{3}{A LIfe Question}{33}{0}{3}
+\beamer@subsectionintoc {3}{4}{Finding Wealth or Not}{35}{0}{3}
+\beamer@subsectionintoc {3}{5}{Looking to Borrow}{37}{0}{3}
+\beamer@subsectionintoc {3}{6}{Inheritance}{38}{0}{3}
+\beamer@subsectionintoc {3}{7}{Seeking a Kingdom}{39}{0}{3}
+\beamer@subsectionintoc {3}{8}{Another Question on a Kingdom}{40}{0}{3}
+\beamer@subsectionintoc {3}{9}{Will I get the dukedom promised by the King?}{41}{0}{3}
+\beamer@sectionintoc {4}{Sahl Examples}{43}{0}{4}
+\beamer@subsectionintoc {4}{1}{Translation of Light}{44}{0}{4}
