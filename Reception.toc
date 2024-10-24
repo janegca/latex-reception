@@ -5,7 +5,7 @@
 \beamer@subsubsectionintoc {1}{3}{1}{Committing Disposition - Another Example}{8}{0}{1}
 \beamer@subsectionintoc {1}{4}{The Joining of Planets}{9}{0}{1}
 \beamer@subsectionintoc {1}{5}{What Constitutes Reception?}{10}{0}{1}
-\beamer@subsubsectionintoc {1}{5}{1}{Perfect Reception: Pushing Nature}{11}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{1}{Perfect Reception - Pusing Nature}{11}{0}{1}
 \beamer@subsubsectionintoc {1}{5}{2}{A Weaker Reception - Pushing Power}{12}{0}{1}
 \beamer@subsubsectionintoc {1}{5}{3}{Pushing Two Natures}{13}{0}{1}
 \beamer@subsubsectionintoc {1}{5}{4}{Mutual Reception}{14}{0}{1}
@@ -14,17 +14,18 @@
 \beamer@subsectionintoc {2}{1}{Horary Questions in General}{18}{0}{2}
 \beamer@subsectionintoc {2}{2}{Choosing Significators}{19}{0}{2}
 \beamer@subsectionintoc {2}{3}{Perfection and Outcomes}{21}{0}{2}
-\beamer@subsectionintoc {2}{4}{16 Modes of Perfection and Destruction}{24}{0}{2}
-\beamer@subsectionintoc {2}{5}{Timing}{26}{0}{2}
-\beamer@sectionintoc {3}{Masha'allah's Example Charts}{27}{0}{3}
-\beamer@subsectionintoc {3}{1}{About Life or Death}{28}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sickness}{30}{0}{3}
-\beamer@subsectionintoc {3}{3}{A LIfe Question}{33}{0}{3}
-\beamer@subsectionintoc {3}{4}{Finding Wealth or Not}{35}{0}{3}
-\beamer@subsectionintoc {3}{5}{Looking to Borrow}{37}{0}{3}
-\beamer@subsectionintoc {3}{6}{Inheritance}{38}{0}{3}
-\beamer@subsectionintoc {3}{7}{Seeking a Kingdom}{39}{0}{3}
-\beamer@subsectionintoc {3}{8}{Another Question on a Kingdom}{40}{0}{3}
-\beamer@subsectionintoc {3}{9}{Will I get the dukedom promised by the King?}{41}{0}{3}
-\beamer@sectionintoc {4}{Sahl Examples}{43}{0}{4}
-\beamer@subsectionintoc {4}{1}{Translation of Light}{44}{0}{4}
+\beamer@subsectionintoc {2}{4}{Timing}{24}{0}{2}
+\beamer@sectionintoc {3}{Sahl's 16 Modes of Perfection and Destruction}{25}{0}{3}
+\beamer@subsectionintoc {3}{1}{1-3 Perfection, Deterioration, and Connection}{26}{0}{3}
+\beamer@subsectionintoc {3}{2}{4-5 Separation, Translation}{27}{0}{3}
+\beamer@subsectionintoc {3}{3}{6 Collection}{29}{0}{3}
+\beamer@sectionintoc {4}{Masha'allah's Example Charts}{30}{0}{4}
+\beamer@subsectionintoc {4}{1}{About Life or Death}{31}{0}{4}
+\beamer@subsectionintoc {4}{2}{Sickness}{33}{0}{4}
+\beamer@subsectionintoc {4}{3}{A LIfe Question}{36}{0}{4}
+\beamer@subsectionintoc {4}{4}{Finding Wealth or Not}{38}{0}{4}
+\beamer@subsectionintoc {4}{5}{Looking to Borrow}{40}{0}{4}
+\beamer@subsectionintoc {4}{6}{Inheritance}{41}{0}{4}
+\beamer@subsectionintoc {4}{7}{Seeking a Kingdom}{42}{0}{4}
+\beamer@subsectionintoc {4}{8}{Another Question on a Kingdom}{43}{0}{4}
+\beamer@subsectionintoc {4}{9}{Will I get the dukedom promised by the King?}{44}{0}{4}
