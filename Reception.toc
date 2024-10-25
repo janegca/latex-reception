@@ -18,14 +18,15 @@
 \beamer@sectionintoc {3}{Sahl's 16 Modes of Perfection and Destruction}{25}{0}{3}
 \beamer@subsectionintoc {3}{1}{1-3 Perfection, Deterioration, and Connection}{26}{0}{3}
 \beamer@subsectionintoc {3}{2}{4-5 Separation, Translation}{27}{0}{3}
-\beamer@subsectionintoc {3}{3}{6 Collection}{29}{0}{3}
-\beamer@sectionintoc {4}{Masha'allah's Example Charts}{30}{0}{4}
-\beamer@subsectionintoc {4}{1}{About Life or Death}{31}{0}{4}
-\beamer@subsectionintoc {4}{2}{Sickness}{33}{0}{4}
-\beamer@subsectionintoc {4}{3}{A LIfe Question}{36}{0}{4}
-\beamer@subsectionintoc {4}{4}{Finding Wealth or Not}{38}{0}{4}
-\beamer@subsectionintoc {4}{5}{Looking to Borrow}{40}{0}{4}
-\beamer@subsectionintoc {4}{6}{Inheritance}{41}{0}{4}
-\beamer@subsectionintoc {4}{7}{Seeking a Kingdom}{42}{0}{4}
-\beamer@subsectionintoc {4}{8}{Another Question on a Kingdom}{43}{0}{4}
-\beamer@subsectionintoc {4}{9}{Will I get the dukedom promised by the King?}{44}{0}{4}
+\beamer@subsectionintoc {3}{3}{6. Conjunction (Collection) of Light}{29}{0}{3}
+\beamer@subsectionintoc {3}{4}{7 Prohibition}{30}{0}{3}
+\beamer@sectionintoc {4}{Masha'allah's Example Charts}{34}{0}{4}
+\beamer@subsectionintoc {4}{1}{About Life or Death}{35}{0}{4}
+\beamer@subsectionintoc {4}{2}{Sickness}{37}{0}{4}
+\beamer@subsectionintoc {4}{3}{A LIfe Question}{40}{0}{4}
+\beamer@subsectionintoc {4}{4}{Finding Wealth or Not}{42}{0}{4}
+\beamer@subsectionintoc {4}{5}{Looking to Borrow}{44}{0}{4}
+\beamer@subsectionintoc {4}{6}{Inheritance}{45}{0}{4}
+\beamer@subsectionintoc {4}{7}{Seeking a Kingdom}{46}{0}{4}
+\beamer@subsectionintoc {4}{8}{Another Question on a Kingdom}{47}{0}{4}
+\beamer@subsectionintoc {4}{9}{Will I get the dukedom promised by the King?}{48}{0}{4}

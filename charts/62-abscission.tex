@@ -1,0 +1,79 @@
+% 62-abscission
+\documentclass[border=10pt]{standalone}
+\input{../chartPreamble}
+
+\begin{document}
+\begin{tikzpicture}[scale=6]
+% ================ DEFINE VARIABLES =======================
+	\def\opcolor{black!50};		% lighter shade
+
+% =============== DRAWING ROUTINES ======================
+% ---- Draw Main Circles
+	\draw (0,0) circle(0.35);		% inner place number circle
+	\draw (0,0) circle(0.45);		% outer place number circle
+	
+	\draw (0,0) circle(1.25);		% outer ring
+
+% ---- Draw and Number Houses
+\begin{scope}[rotate=180]
+	% draw numbered, fixed place positions
+	\foreach \place/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\place + 15:0.4) node {\small\label};
+	
+	% draw radix cusps
+	\foreach \x in {0,30,...,330} {
+	        % lines from center to point
+	        \draw[gray] (0,0) -- (\x:1.25);
+	}	
+	\fill[white] (0,0) circle(0.35);
+
+	% draw chart info
+	\draw (0,0) [align=center] node {\large Prohibition \\ Abscission of Light \\ "cutting"};
+
+\end{scope}
+
+% ---- Turn chart and place signs and planets 
+\begin{scope}[rotate=180]  % based on Asc sign
+
+	% Cusps  
+	\node [cusp] at (0:1.25)  {\Virgo};						% Asc
+	\node [cusp] at (30:1.25)  {\Libra};				
+	\node [cusp] at (60:1.25)  {\Scorpio};					
+	\node [cusp] at (90:1.25)  {\Sagittarius};			% 4th  
+	\node [cusp] at (120:1.25)  {\Capricorn};					
+	\node [cusp] at (150:1.25)  {\Aquarius};						
+	\node [cusp] at (180:1.25)  {\Pisces};				% 7th
+	\node [cusp] at (210:1.25)  {\Aries };							
+	\node [cusp] at (240:1.25)  {\Taurus};					
+	\node [cusp] at (270:1.25)  {\Gemini};				% 10th  
+	\node [cusp] at (300:1.25)  {\Cancer};       			
+	\node [cusp] at (330:1.25)  {\Leo};				
+	
+	% Planets  -- watch that they are placed in correct house
+	\huge;
+
+	\node (1) at (315:1) {\Mercury\ \small 10 \Cancer};
+	\node (2) at (195:1) {\Jupiter\ \small 15 \Pisces};
+	\node (3) at (225:1) {\Mars\ \small 13 \Aries};
+
+
+%	\draw [->,red,very thick] (1.north) to [bend right=50] (2.north);
+%	\draw [->,very thick] (1.west) -- node[midway, above] {\small \Trine} (3.south);
+%	\draw [->,very thick] (2.west) -- node[midway, above] {\small \Square} (3.south);
+	
+\end{scope}
+
+\end{tikzpicture}
+\end{document}
