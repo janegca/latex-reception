@@ -1,4 +1,4 @@
-% 62-abscission
+% 63-nullification
 \documentclass[border=10pt]{standalone}
 \input{../chartPreamble}
 
@@ -40,7 +40,7 @@
 	\fill[white] (0,0) circle(0.35);
 
 	% draw chart info
-	\draw (0,0) [align=center] node {\large Prohibition \\ Abscission of Light \\ "cutting"};
+	\draw (0,0) [align=center] node {\large Reception};
 
 \end{scope}
 
@@ -48,30 +48,26 @@
 \begin{scope}[rotate=180]  % based on Asc sign
 
 	% Cusps  
-	\node [cusp] at (0:1.25)  {\Virgo};						% Asc
-	\node [cusp] at (30:1.25)  {\Libra};				
-	\node [cusp] at (60:1.25)  {\Scorpio};					
-	\node [cusp] at (90:1.25)  {\Sagittarius};			% 4th  
-	\node [cusp] at (120:1.25)  {\Capricorn};					
-	\node [cusp] at (150:1.25)  {\Aquarius};						
-	\node [cusp] at (180:1.25)  {\Pisces};				% 7th
-	\node [cusp] at (210:1.25)  {\Aries };							
-	\node [cusp] at (240:1.25)  {\Taurus};					
-	\node [cusp] at (270:1.25)  {\Gemini};				% 10th  
-	\node [cusp] at (300:1.25)  {\Cancer};       			
-	\node [cusp] at (330:1.25)  {\Leo};				
+	\node [cusp] at (0:1.25)  {\Cancer};						% Asc
+	\node [cusp] at (30:1.25)  {\Leo};				
+	\node [cusp] at (60:1.25)  {\Virgo};					
+	\node [cusp] at (90:1.25)  {\Libra};						% 4th  
+	\node [cusp] at (120:1.25)  {\Scorpio};					
+	\node [cusp] at (150:1.25)  {\Sagittarius };						
+	\node [cusp] at (180:1.25)  {\Capricorn };			% 7th
+	\node [cusp] at (210:1.25)  {\Aquarius  };							
+	\node [cusp] at (240:1.25)  {\Pisces };					
+	\node [cusp] at (270:1.25)  {\Aries };					% 10th  
+	\node [cusp] at (300:1.25)  {\Taurus };       			
+	\node [cusp] at (330:1.25)  {\Gemini};			
 	
 	% Planets  -- watch that they are placed in correct house
 	\huge;
 
-	\node (1) at (307:1) {\Mercury\ \small 10 \Cancer};
-	\node at (316:0.95) [gray] {\large \Square\ \Mars\ \small 13};
-	\node (2) at (322:0.95) [gray] {\large \Trine\ \Jupiter\ \small 15};
-	
-	\node at (195:1) {\Jupiter\ \small 15 \Pisces};
-	\node at (225:1) {\Mars\ \small 13 \Aries};
+	\node (1) at (285:1) {\Moon\ \small \Aries};
+	\node (2) at (165:1) {\Mars\ \small \Sagittarius};
 
-	\draw [->,red,thick, dashed] (1.west) to [bend right=10] (2.west);
+%	\draw [->,red,very thick] (1.north) to [bend right=50] (2.north);
 %	\draw [->,very thick] (1.west) -- node[midway, above] {\small \Trine} (3.south);
 %	\draw [->,very thick] (2.west) -- node[midway, above] {\small \Square} (3.south);
 	
