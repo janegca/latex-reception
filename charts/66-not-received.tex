@@ -40,7 +40,7 @@
 	\fill[white] (0,0) circle(0.35);
 
 	% draw chart info
-	\draw (0,0) [align=center] node {\large Reception};
+	\draw (0,0) [align=center] node {\large Not Received};
 
 \end{scope}
 
@@ -64,10 +64,20 @@
 	% Planets  -- watch that they are placed in correct house
 	\huge;
 
-	\node (1) at (285:1) {\Moon\ \small \Aries};
-	\node (2) at (165:1) {\Mars\ \small \Sagittarius};
+	\node (1) at (285:1) {\Moon \small 5 \Aries};
+	\node (2) at (15:1) {\Saturn \small 10 \Cancer};
+	\draw [red,thick,dashed] (1.south) -- node[midway, above] {\small \Square}  (2.north);
+	
+	\node (3) at (75:1) {\Venus \small 7 \Virgo};
+	\node (4) at (135:1) {\Jupiter \small 9 \Scorpio};
+	\draw [red,thick,dashed] (3.east) -- node[midway, below] {\small \Sextile}  (4.south);
+	\draw [red,thick,dashed] (4.west) -- node[midway, above] {\small \Trine} (2.south);
+	
+	\node (5) at (165:1) {\Mercury \small 2 \Sagittarius};
+	\node (6) at (255:1) {\Mars \small 3 \Pisces};
+	\draw [red, thick,dashed] (5.north) -- node[midway,above] {\small \Square} (6.south);
 
-%	\draw [->,red,very thick] (1.north) to [bend right=50] (2.north);
+	
 %	\draw [->,very thick] (1.west) -- node[midway, above] {\small \Trine} (3.south);
 %	\draw [->,very thick] (2.west) -- node[midway, above] {\small \Square} (3.south);
 	
