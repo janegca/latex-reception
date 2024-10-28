@@ -23,13 +23,16 @@
 \beamer@subsectionintoc {3}{5}{8 Reception}{34}{0}{3}
 \beamer@subsectionintoc {3}{6}{9 Not Received}{35}{0}{3}
 \beamer@subsectionintoc {3}{7}{10-13 Void of Course (VOC), Return, Giving Virtue}{36}{0}{3}
-\beamer@sectionintoc {4}{Masha'allah's Example Charts}{37}{0}{4}
-\beamer@subsectionintoc {4}{1}{About Life or Death}{38}{0}{4}
-\beamer@subsectionintoc {4}{2}{Sickness}{40}{0}{4}
-\beamer@subsectionintoc {4}{3}{A LIfe Question}{43}{0}{4}
-\beamer@subsectionintoc {4}{4}{Finding Wealth or Not}{45}{0}{4}
-\beamer@subsectionintoc {4}{5}{Looking to Borrow}{47}{0}{4}
-\beamer@subsectionintoc {4}{6}{Inheritance}{48}{0}{4}
-\beamer@subsectionintoc {4}{7}{Seeking a Kingdom}{49}{0}{4}
-\beamer@subsectionintoc {4}{8}{Another Question on a Kingdom}{50}{0}{4}
-\beamer@subsectionintoc {4}{9}{Will I get the dukedom promised by the King?}{51}{0}{4}
+\beamer@subsectionintoc {3}{8}{14 Strength of the Planets}{37}{0}{3}
+\beamer@subsectionintoc {3}{9}{15 The Debility of the Planets}{39}{0}{3}
+\beamer@subsectionintoc {3}{10}{16 The Defects of the Moon}{40}{0}{3}
+\beamer@sectionintoc {4}{Masha'allah's Example Charts}{42}{0}{4}
+\beamer@subsectionintoc {4}{1}{About Life or Death}{43}{0}{4}
+\beamer@subsectionintoc {4}{2}{Sickness}{45}{0}{4}
+\beamer@subsectionintoc {4}{3}{A LIfe Question}{48}{0}{4}
+\beamer@subsectionintoc {4}{4}{Finding Wealth or Not}{50}{0}{4}
+\beamer@subsectionintoc {4}{5}{Looking to Borrow}{52}{0}{4}
+\beamer@subsectionintoc {4}{6}{Inheritance}{53}{0}{4}
+\beamer@subsectionintoc {4}{7}{Seeking a Kingdom}{54}{0}{4}
+\beamer@subsectionintoc {4}{8}{Another Question on a Kingdom}{55}{0}{4}
+\beamer@subsectionintoc {4}{9}{Will I get the dukedom promised by the King?}{56}{0}{4}
