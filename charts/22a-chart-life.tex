@@ -40,7 +40,7 @@
 	\fill[white] (0,0) circle(0.35);
 
 	% draw chart info
-	\draw (0,0) [align=center] node {\large Life Question};
+	\draw (0,0) [align=center] node {\large Life Question \\ A Look at the 6th};
 %	\node at (0,0){\large 38 AD June 14} (0,1);	
 %	\node at (0,0.1) {\large at Sunrise};
 %	\node at (0,0.2) {\small from Cardan};
@@ -66,20 +66,24 @@
 		
 	% Planets  -- watch that they are placed in correct house
 	\huge
-	\node at (175:1) [blue] {\Sun\ \small 24 \Aquarius\ 35};
-	\node at (185:1) [red] {\small \Sextile\ \Jupiter\ 9 \Pisces};
-	\node at (252:.75) [blue] {\Moon\ \small 28 \Aries\ 27};
-	\node at (260:0.85) [red] {\small \Square\ \Mercury\ 2 \Taurus};
-	\node (2) at (164:0.9) [red] {\small \Sextile\ \Saturn\ 4 \Aquarius};
-	\node(1)  at (159:0.9) {\Mercury\ \small 2 \Aquarius\ 16};
-	\node at (135:1) {\Venus\ \small 11 \Capricorn\ 39};
+	\node at (175:1)  {\Sun\ \small 24 \Aquarius\ 35};
+	\node at (185:1)  {\small \Sextile\ \Jupiter\ 9 \Pisces};
+	\node at (252:.75) {\Moon\ \small 28 \Aries\ 27};
+	\node at (260:0.85) {\small \Square\ \Mercury\ 2 \Taurus};
+	\node (2) at (164:0.9) {\small \Sextile\ \Saturn\ 4 \Aquarius};
+	\node (1)  at (159:0.9) {\Mercury\ \small 2 \Aquarius\ 16};
+	\node (5) at (127:1.1) [blue] {\small \Square\ \Saturn\ 4 \Capricorn};
+	\node (3) at (135:1.05) {\Venus\ \small 11 \Capricorn\ 39};
+	\node (4) at (142:1) [red] {\small \Trine\ \Mars\ 15 \Capricorn};
 	\node at (258:1.1) {\Mars\ \small 15 \Taurus\ 18};
 	\node at (258:1) {\Jupiter\ \small 9  \Taurus\ 13};
-	\node at (225:1) {\Saturn\ \small 4 \Aries\ 45};
+	\node at (225:1) [blue] {\Saturn\ \small 4 \Aries\ 45};
 	
-	\draw [->] [red] (252:.77) -- (262:0.8);
-	\draw [->] [red] (1.mid east) to [bend right=50] (2.east);
-	\draw [->] [red] (176:1) -- (183:1);
+	\draw [->]  (252:.77) -- (262:0.8);
+	\draw [->]  (1.mid east) to [bend right=50] (2.east);
+	\draw [->]  (176:1) -- (183:1);
+	\draw [->] [red] (3.mid east) to [bend right=50] (4.east);
+	\draw [<-] [blue] (3.mid west) to [bend right=50] (5.mid west);
 \end{scope}
 
 \end{tikzpicture}
