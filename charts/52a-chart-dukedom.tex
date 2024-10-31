@@ -70,26 +70,19 @@
 %		
 	% Planets  -- watch that they are placed in correct house
 	\huge
-	\node (1) at (355:1)  {\Sun\ \small 8 \Sagittarius\ 15};
-	\node at (45:1) {\Moon\ \small 22 \Capricorn\ 43};
-	\node (4) at (345:1) {\Mercury \small\Retrograde\ 29 \Scorpio\ 18};
-	\node (2) at (5:1) {\Venus\ \small 11 \Sagittarius\ 31};
+	\node at (355:1)  {\Sun\ \small 8 \Sagittarius\ 15};
+	\node (1) at (50:1) {\Moon\ \small 22 \Capricorn\ 43};
+	\node at (345:1) {\Mercury \small\Retrograde\ 29 \Scorpio\ 18};
+	\node at (5:1) {\Venus\ \small 11 \Sagittarius\ 31};
 	\node at (225:1) {\Mars \small\Retrograde\ 24 \Cancer\ 40};
 	\node at (285:1) {\Jupiter\ \small 20  \Virgo\ 55};
 	\node at (165:0.85){\Saturn \small\Retrograde\ 29 \Taurus\ 54};
 	
-	\node (3) at (15:1.05) [red] {\small \Square\ \Jupiter\ 20 \Sagittarius};
-	\node at (97:1.1) [red] {\small \Opposition\ \Jupiter\ 20 \Virgo};
-	\node at (195:1.1) [red] {\small \Square\ \Jupiter\ 20 \Gemini};
-	\node (6) at (335:1.1) [red] {\small \Sextile\ \Jupiter\ 20 };
+	\node (2) at (40:1) [red] {\small \Trine\ \Jupiter\ 20};
+	\draw [->,red,thick] (2.west) to [bend right=20] (1.west);
 	
-	\draw [->,red,thick] (1.west) to [bend right=20] (3.west);
-	\draw [->,red,thick] (2.west) to [bend right=20] (3.west);
-	
-	\node (5) at (340:1.1) [red] {\small \Opposition\ \Saturn\ 29};
-	\draw [->,red,thick] (4.west) to [bend left=20] (5.west);
-	
-	\draw [->,red,thick] (4.west) to [bend left=40] (6.west);
+	\node (3) at (55:1.1) [red] {\small \Opposition\ \Mars\ 24};
+	\draw [->,red,thick] (1.mid west) to [bend right=20] (3.mid west);
 	
 \end{scope}
 

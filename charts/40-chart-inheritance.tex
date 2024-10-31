@@ -68,12 +68,19 @@
 	% Planets  -- watch that they are placed in correct house
 	\huge
 	\node at (320:1)  {\Sun\ \small 1 \Aries\ 20};
-	\node at (105:1) {\Moon\ \small 28 \Leo\ 48};
-	\node at (307:1.1) {\Mercury\ \small 19 \Pisces\ 15};
-	\node at (285:1) {\Venus\ \small 16 \Aquarius\ 41};
+	\node (1) at (110:1.1) {\Moon\ \small 28 \Leo\ 48};
+	\node at (100:.9) [red] {\small \Opposition\ \Venus\ 16};
+	\node at (307:1.1) {\Mercury\ \small 20 \Pisces};
+	\node (2) at (280:1.1) {\Venus\ \small 16 \Aquarius\ 41};
 	\node at (5:1) {\Mars\ \small 6 \Gemini\ 30};
+	\node at (115:.98) [red] {\small \Square\ \Mars\ 6};
+	\node at (290:1) [red] {\small \Square\ \Mars\ 6};
 	\node at (345:1) {\Jupiter\ \small 14  \Taurus\ 15};
 	\node at (313:1.05) [color=gray] {\Saturn\ \small 7 \Aries\ 45};
+	
+	\draw [<->,red,thick] (97:.95) to [bend right=20] (1.west);
+	\draw [->,red,thick] (107:1.08) to [bend right=20] (113:1);
+	\draw [->, red,thick] (2.west) to [bend right=20] (293:1.05);
 	
 \end{scope}
 

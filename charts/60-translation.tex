@@ -67,18 +67,20 @@
 	% Planets  -- watch that they are placed in correct house
 	\huge
 
-	\node (1) at (275:1) [gray] {\large \Sextile\ \Mercury};
-	\node at (275:0.93) [gray] {\small 8 \Gemini};
-	\node (2) at (293:1) [gray] {\large \Square\ \Jupiter};
-	\node at (293:0.93) [gray] {\small 13 \Gemini};
+	\node (1) at (275:1) [red] {\large \Sextile\ \Mercury};
+	\node  at (275:0.93) [red] {\small 8 \Gemini};
+	\node  at (293:1) [red] {\large \Square\ \Jupiter};
+	\node (2) at (293:0.93) [red] {\small 13 \Gemini};
 	
 	\node  at (345:1) {\Mercury\ \small 8 \Leo};
 
 	\node  at (195:1) {\Jupiter\ \small 13 \Pisces };
 
-	\draw [->,red,very thick] (1.north) to [bend right=50] (2.north);
-	\node  at (283:1.12) {\Moon};
+	\node  (3) at (283:1.12) {\Moon};
 	\node at (283:1.04) {\small 10 \Gemini};
+	
+	\draw [->,red,very thick] (1.north) to [bend right=20] (280:1.12);
+	\draw[->,red,very thick] (3.west) to [bend right=20] (294:1.05);
 
 \end{scope}
 

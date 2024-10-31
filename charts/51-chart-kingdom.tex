@@ -70,12 +70,15 @@
 	% Planets  -- watch that they are placed in correct house
 	\huge
 	\node at (280:1)  {\Sun\ \small 29 \Aries\ 11};
-	\node at (105:1) {\Moon\ \small 4 \Libra\ 22};
+	\node (1) at (100:1.1) {\Moon\ \small 4 \Libra\ 22};
+	\node (2) at (110:1) [red] {\small \Opposition\ \Saturn\ 11};
 	\node at (287:1.15) {\Mercury\ \small10 \Taurus\ 15};
 	\node at (253:1) {\Venus\ \small 17 \Pisces\ 09};
 	\node at (345:1) {\Mars\ \small 22 \Gemini\ 26};
 	\node at (315:1) {\Jupiter\ \small 21  \Taurus\ 40};
 	\node at (280:0.85){\Saturn\ \small 11 \Aries};
+	
+	\draw [->,red,thick] (95:1.03) to [bend left=20] (2.mid west);
 	
 \end{scope}
 

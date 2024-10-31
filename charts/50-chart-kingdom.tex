@@ -69,13 +69,21 @@
 		
 	% Planets  -- watch that they are placed in correct house
 	\huge
-	\node at (355:1)  {\Sun\ \small 0 \Gemini\ 51};
-	\node at (195:1) {\Moon\ \small 9 \Sagittarius\ 18};
-	\node at (15:1) {\Mercury \small\Retrograde\ 14 \Gemini\ 46};
+	\node (4) at (355:1)  {\Sun\ \small 0 \Gemini\ 51};
+	\node (6) at (190:1) {\Moon\ \small 9 \Sagittarius\ 18};
+	\node (7) at (200:1) [red] {\small \Opposition\ \Mercury\ 14};
+	\node (3) at (10:1) {\Mercury \small\Retrograde\ 14 \Gemini\ 46};
 	\node at (335:1) {\Venus\ \small 24 \Aries\ 42};
-	\node at (45:1) {\Mars\ \small 11 \Cancer\ 58};
+	\node (1) at (40:1) {\Mars\ \small 11 \Cancer\ 58};
 	\node at (345:1) {\Jupiter\ \small 28  \Taurus\ 43};
 	\node at (323:1){\Saturn\ \small 16 \Aries};
+	\node (2) at (45:1.1) [red] {\small \Square\ \Saturn\ 16};
+	\node (5) at (20:1) [red] {\small \Sextile\ \Saturn\ 16};
+	
+	\draw [->,red,thick] (1.mid west) to [bend right=20] (2.west);
+	\draw [->,red,thick] (3.west) to [bend left=20] (4.west);
+	\draw [->,red,thick] (4.mid east) to [bend left=20] (5.east);
+	\draw [->,red,thick] (6.mid east) to [bend right=20] (7.mid east);
 	
 \end{scope}
 
