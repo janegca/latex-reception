@@ -36,6 +36,4 @@
 \beamer@subsectionintoc {4}{7}{Seeking a Kingdom}{56}{0}{4}
 \beamer@subsectionintoc {4}{8}{Another Question on a Kingdom}{57}{0}{4}
 \beamer@subsectionintoc {4}{9}{Will I get the dukedom promised by the King?}{58}{0}{4}
-\beamer@sectionintoc {5}{Looking at a few Horaries}{60}{0}{5}
-\beamer@subsectionintoc {5}{1}{Doane 701-Will my finances improve?}{62}{0}{5}
-\beamer@subsectionintoc {5}{2}{Doane 702-Will I get a raise?}{63}{0}{5}
+\beamer@sectionintoc {5}{Hyleg and Alcochoden}{60}{0}{5}
