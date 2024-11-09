@@ -64,10 +64,12 @@
 	% Planets  -- watch that they are placed in correct house
 	\huge;
 
-	\node (1) at (310:1) {\Moon\ \small 10 \Taurus};
-	\node (2) at (320:1) {\Mars\ \small 20 \Taurus};
-	\node (3) at (15:1) {\Venus \small 15 \Cancer};
+	\node (1) at (305:1) {\Moon\ \small 10 \Taurus};
+	\node (2) at (315:1) [gray] {\large \Sextile\ \Venus\ \small 15};
+	\node at (324:1) {\Mars\ \small 20 \Taurus};
+	\node at (15:1) {\Venus \small 15 \Cancer};
 
+	\draw [->,red,thick, dashed] (1.west) to [bend right=20] (316:1.1);
 %	\draw [->,red,very thick] (1.north) to [bend right=50] (2.north);
 %	\draw [->,very thick] (1.west) -- node[midway, above] {\small \Trine} (3.south);
 %	\draw [->,very thick] (2.west) -- node[midway, above] {\small \Square} (3.south);
