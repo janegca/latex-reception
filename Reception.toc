@@ -36,4 +36,3 @@
 \beamer@subsectionintoc {4}{7}{Seeking a Kingdom}{56}{0}{4}
 \beamer@subsectionintoc {4}{8}{Another Question on a Kingdom}{57}{0}{4}
 \beamer@subsectionintoc {4}{9}{Will I get the dukedom promised by the King?}{58}{0}{4}
-\beamer@sectionintoc {5}{Hyleg and Alcochoden}{60}{0}{5}
