@@ -1,5 +1,6 @@
 \documentclass[10pt, fleqn, aspectratio=1610,usenames,dvipsnames]{beamer}
 \input{slidePreamble.tex}
+
 \hypersetup{
 	pdfpagelayout=SinglePage,
 	pdfauthor={janegca},
@@ -29,13 +30,16 @@ These notes are based primarily on Masha'allah's \textsl{On Reception} trans. Ro
 \end{frame}
 
 % table of contents
+\setbeamerfont{section in toc}{size=\footnotesize }
+\setbeamerfont{subsection in toc}{size=\scriptsize}
+\setbeamerfont{subsubsection in toc}{size=\tiny}
 \AtBeginSection[]{
 	\begin{frame}[t, allowframebreaks]{Outline}
-		\fontsize{8pt}{5pt}\selectfont
-		%\small
+		\setcounter{tocdepth}{4}
+		%\fontsize{7pt}{4pt}\selectfont
    		\tableofcontents[
    	  		currentsection,
-   	  		sectionstyle=show/show,
+   	  		sectionstyle=show,
    	  		subsectionstyle=show/show/hide,
    	  		subsubsectionstyle=show/show/show/hide] 
 	\end{frame}
